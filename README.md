@@ -1,2 +1,2 @@
 # drinks
-This is the file with drinks receipts 
+This is the file with drinks recipes 
